@@ -230,6 +230,6 @@ body {
   grid-column: 2 / 3;
   background-size: cover;
   background-position: center;
-  background-image: url("./img/image1.jpg");
+  background-image: url("../img/image1.jpg");
 }
 
